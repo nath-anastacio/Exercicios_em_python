@@ -1,3 +1,6 @@
+############ Aplicativo criado sem o Paradigma de Orientação a Objetos ######################
+
+
 import os
 
 restaurantes = [{'nome':'Praça', 'categoria':'Japonesa', 'ativo':False}, 
