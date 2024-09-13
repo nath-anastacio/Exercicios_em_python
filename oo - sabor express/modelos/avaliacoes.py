@@ -1,5 +1,10 @@
 class Avaliacao:
     def __init__(self, cliente, nota):
+        """Inicializa uma instância de uma avaliação.
+        
+        Parâmetros:
+        - cliente (str): Nome do cliente que fez a avaliação.
+        - nota (int): Nota atribuída ao restaurante."""
         self._cliente = cliente
         self._nota = nota
 
